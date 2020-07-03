@@ -1,1 +1,2 @@
-(https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/menonpg/gg_pgss_2020/blob/master/MyNotebooks/myFirstScript.ipynb)
+(https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/drive/1jXOKd5BVVDUsJHjpRUyvNXez8hiFo07b?authuser=1#scrollTo=c-eaCfkS_dJr)
